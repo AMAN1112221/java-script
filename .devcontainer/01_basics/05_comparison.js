@@ -48,5 +48,5 @@ let myobj=
 }
 
 
-//How to now the datatype 
+//How to know the datatype 
 //typeof

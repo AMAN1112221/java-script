@@ -1,6 +1,6 @@
 let score="33"
 
-console.log(typeof score)//number =>in lower case
+console.log(typeof score)//string 
 
 let valueInNumber=Number(score) // convert krne k liye capital me N likhna hoga=>number
 console.log(typeof(valueInNumber))

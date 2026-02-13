@@ -5,8 +5,11 @@ console.log(name+repo)
  // best method 
  console.log(`hello my name is ${name} and my repo count is ${repo}`);
  // declaration 
- const gameName=new String ('aman')
- console.log(gameName[0]);// yha ye object hai and ye key value pair me hai [0]:a [1]:m
+ const gameName=new String ('aman')//The new keyword is used to create an object instance of the String constructor.
+//Type: "object" if we will not use new then its type will be string.
+
+//So this creates a String object, not a primitive string.
+ console.log(gameName[0]);// yha ye object hai and ye key value pair me hai [0]:a ,[1]:m
  console.log(gameName.__proto__); // {} means object 
 
 
